@@ -11,4 +11,8 @@ function add(a, b) {
 }
 add(10, 5);
 
+function substract(a, b) {
+  return a - b;
+}
 
+substract(10, 4);
